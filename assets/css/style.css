@@ -1051,7 +1051,7 @@ section {
 --------------------------------------------------------------*/
 
 #footer {
-  background: rgb(106, 100, 100);
+  background: black;
   border-top: 1px solid #37332a;
   padding: 60px 20px;
   line-height: 1;
@@ -1060,13 +1060,14 @@ section {
 #footer h3 {
   font-family: 'Kaushan Script';
   font-size: 50px;
-  color: black;
   /* padding: 20px; */
 }
 
 #logo img{
   width: 350px;  
   border-radius: 16px;
+  background-color: whitesmoke;
+  padding: 20px;
 }
 
 @media screen and (max-width: 500px) {
@@ -1078,5 +1079,4 @@ section {
 #footer .copyright {
   text-align: center;
   padding-top: 30px;
-  color: black;
 }
