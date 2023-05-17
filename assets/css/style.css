@@ -1063,11 +1063,16 @@ section {
   /* padding: 20px; */
 }
 
-#logo img{
+#footer img{
   width: 350px;  
   border-radius: 16px;
   background-color: whitesmoke;
   padding: 20px;
+}
+
+#logo img{
+  width: 350px;  
+  border-radius: 16px;
 }
 
 @media screen and (max-width: 500px) {
